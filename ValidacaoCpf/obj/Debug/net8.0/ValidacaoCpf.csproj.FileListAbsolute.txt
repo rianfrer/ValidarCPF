@@ -1,0 +1,14 @@
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\bin\Debug\net8.0\ValidacaoCpf.exe
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\bin\Debug\net8.0\ValidacaoCpf.deps.json
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\bin\Debug\net8.0\ValidacaoCpf.runtimeconfig.json
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\bin\Debug\net8.0\ValidacaoCpf.dll
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\bin\Debug\net8.0\ValidacaoCpf.pdb
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.AssemblyInfoInputs.cache
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.AssemblyInfo.cs
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.csproj.CoreCompileInputs.cache
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.dll
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\refint\ValidacaoCpf.dll
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.pdb
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ValidacaoCpf.genruntimeconfig.cache
+C:\Users\rianf\OneDrive\Área de Trabalho\projetos\ValidacaoCpf\ValidacaoCpf\ValidacaoCpf\obj\Debug\net8.0\ref\ValidacaoCpf.dll
